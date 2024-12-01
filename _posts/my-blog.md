@@ -1,5 +1,5 @@
 ---
 layout: post
-title: You're up and running!
+title: testing!
 ---
-Hi.
+Hi I am testing
