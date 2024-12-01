@@ -6,4 +6,4 @@ permalink: /about/
 
 ### Contact me
 
-[priyal.shah@gmail.com](mailto:priyal.shah@gmail.com)
+[priyal.shah2095@gmail.com](mailto:priyal.shah2095@gmail.com)
